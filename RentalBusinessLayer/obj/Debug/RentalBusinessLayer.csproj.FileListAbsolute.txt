@@ -1,0 +1,17 @@
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\RentalBusinessLayer.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\RentalBusinessLayer.pdb
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\RentalDataAccess.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\RentalDataAccess.pdb
+C:\Users\fg\source\repos\RentalBusinessLayer\obj\Debug\RentalBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\RentalBusinessLayer\obj\Debug\RentalBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\RentalBusinessLayer\obj\Debug\RentalBu.39EED79E.Up2Date
+C:\Users\fg\source\repos\RentalBusinessLayer\obj\Debug\RentalBusinessLayer.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\obj\Debug\RentalBusinessLayer.pdb
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\RentalBusinessLayer.dll.config
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\System.Buffers.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\System.Memory.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\fg\source\repos\RentalBusinessLayer\bin\Debug\RentalDataAccess.dll.config

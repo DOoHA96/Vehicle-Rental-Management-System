@@ -1,0 +1,14 @@
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\RentalDataAccess.dll
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\RentalDataAccess.pdb
+C:\Users\fg\source\repos\RentalDataAccess\obj\Debug\RentalDataAccess.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\RentalDataAccess\obj\Debug\RentalDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\RentalDataAccess\obj\Debug\RentalDataAccess.dll
+C:\Users\fg\source\repos\RentalDataAccess\obj\Debug\RentalDataAccess.pdb
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\RentalDataAccess.dll.config
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\System.Buffers.dll
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\System.Memory.dll
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fg\source\repos\RentalDataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\fg\source\repos\RentalDataAccess\obj\Debug\RentalDa.0665140C.Up2Date

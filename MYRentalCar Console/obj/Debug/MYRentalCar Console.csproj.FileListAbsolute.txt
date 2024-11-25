@@ -1,0 +1,14 @@
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\MYRentalCar Console.exe.config
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\MYRentalCar Console.exe
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\MYRentalCar Console.pdb
+C:\Users\fg\source\repos\MYRentalCar Console\obj\Debug\MYRentalCar Console.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\MYRentalCar Console\obj\Debug\MYRentalCar Console.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\MYRentalCar Console\obj\Debug\MYRentalCar Console.exe
+C:\Users\fg\source\repos\MYRentalCar Console\obj\Debug\MYRentalCar Console.pdb
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\RentalBusinessLayer.dll
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\RentalDataAccess.dll
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\RentalBusinessLayer.pdb
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\RentalDataAccess.pdb
+C:\Users\fg\source\repos\MYRentalCar Console\obj\Debug\MYRental.8EC74EAC.Up2Date
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\RentalBusinessLayer.dll.config
+C:\Users\fg\source\repos\MYRentalCar Console\bin\Debug\RentalDataAccess.dll.config

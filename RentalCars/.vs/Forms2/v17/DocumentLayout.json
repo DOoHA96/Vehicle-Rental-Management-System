@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fg\\source\\repos\\Forms2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|C:\\Users\\fg\\source\\repos\\Forms2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|C:\\Users\\fg\\source\\repos\\Forms2\\booking\\frmaddupdatebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:booking\\frmaddupdatebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739C3E27-5F07-41A3-85E6-B6848E20E187}|..\\RentalDataAccess\\RentalDataAccess.csproj|c:\\users\\fg\\source\\repos\\rentaldataaccess\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|c:\\users\\fg\\source\\repos\\forms2\\dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8F9BCC-A99E-473A-95EC-783316DCAEB7}|..\\RentalBusinessLayer\\RentalBusinessLayer.csproj|c:\\users\\fg\\source\\repos\\rentalbusinesslayer\\clsbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739C3E27-5F07-41A3-85E6-B6848E20E187}|..\\RentalDataAccess\\RentalDataAccess.csproj|c:\\users\\fg\\source\\repos\\rentaldataaccess\\clsbookingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|C:\\Users\\fg\\source\\repos\\Forms2\\dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:dashboard\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8F9BCC-A99E-473A-95EC-783316DCAEB7}|..\\RentalBusinessLayer\\RentalBusinessLayer.csproj|c:\\users\\fg\\source\\repos\\rentalbusinesslayer\\clsvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|C:\\Users\\fg\\source\\repos\\Forms2\\booking\\frmaddupdatebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:booking\\frmaddupdatebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|C:\\Users\\fg\\source\\repos\\Forms2\\booking\\frmlistbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:booking\\frmlistbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|C:\\Users\\fg\\source\\repos\\Forms2\\booking\\frmlistbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34212580-9B63-492E-AB0E-8C4CA93D28A1}|MyRentalCar.csproj|solutionrelative:booking\\frmlistbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739C3E27-5F07-41A3-85E6-B6848E20E187}|..\\RentalDataAccess\\RentalDataAccess.csproj|c:\\users\\fg\\source\\repos\\rentaldataaccess\\clscategoriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmListBookings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmListBookings.cs",
+              "RelativeDocumentMoniker": "Booking\\frmListBookings.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmListBookings.cs [Design]",
+              "RelativeToolTip": "Booking\\frmListBookings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:46:53.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmListBookings.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmListBookings.cs",
+              "RelativeDocumentMoniker": "Booking\\frmListBookings.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmListBookings.cs",
+              "RelativeToolTip": "Booking\\frmListBookings.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwGkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:46:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCategoriesData.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\RentalDataAccess\\clsCategoriesData.cs",
+              "RelativeDocumentMoniker": "..\\RentalDataAccess\\clsCategoriesData.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\RentalDataAccess\\clsCategoriesData.cs",
+              "RelativeToolTip": "..\\RentalDataAccess\\clsCategoriesData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:54:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsBookingsData.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\RentalDataAccess\\clsBookingsData.cs",
+              "RelativeDocumentMoniker": "..\\RentalDataAccess\\clsBookingsData.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\RentalDataAccess\\clsBookingsData.cs",
+              "RelativeToolTip": "..\\RentalDataAccess\\clsBookingsData.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAmwDoBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:54:48.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAddUpdateBooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmAddUpdateBooking.cs",
+              "RelativeDocumentMoniker": "Booking\\frmAddUpdateBooking.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmAddUpdateBooking.cs [Design]",
+              "RelativeToolTip": "Booking\\frmAddUpdateBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:58:05.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddUpdateBooking.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmAddUpdateBooking.cs",
+              "RelativeDocumentMoniker": "Booking\\frmAddUpdateBooking.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Booking\\frmAddUpdateBooking.cs",
+              "RelativeToolTip": "Booking\\frmAddUpdateBooking.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwJ8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:58:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:43:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\RentalBusinessLayer\\clsVehicle.cs",
+              "RelativeDocumentMoniker": "..\\RentalBusinessLayer\\clsVehicle.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\RentalBusinessLayer\\clsVehicle.cs",
+              "RelativeToolTip": "..\\RentalBusinessLayer\\clsVehicle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwGAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:47:46.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Dashboard\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Dashboard\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:51:51.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\Forms2\\Dashboard\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\Forms2\\Dashboard\\frmDashboard.cs",
+              "RelativeToolTip": "Dashboard\\frmDashboard.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:51:53.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsBookings.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\RentalBusinessLayer\\clsBookings.cs",
+              "RelativeDocumentMoniker": "..\\RentalBusinessLayer\\clsBookings.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\RentalBusinessLayer\\clsBookings.cs",
+              "RelativeToolTip": "..\\RentalBusinessLayer\\clsBookings.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAArwJEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:52:03.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPaymentsData.cs",
+              "DocumentMoniker": "C:\\Users\\fg\\source\\repos\\RentalDataAccess\\clsPaymentsData.cs",
+              "RelativeDocumentMoniker": "..\\RentalDataAccess\\clsPaymentsData.cs",
+              "ToolTip": "C:\\Users\\fg\\source\\repos\\RentalDataAccess\\clsPaymentsData.cs",
+              "RelativeToolTip": "..\\RentalDataAccess\\clsPaymentsData.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwH8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:04:20.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
